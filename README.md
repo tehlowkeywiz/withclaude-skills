@@ -1,6 +1,8 @@
 # withclaude skills
 
-Two small Claude Code skills I give my withclaude students: **check-in** and **check-out**.
+Two small Claude Code skills, **check-in** and **check-out**, from my course at [withclaude](https://withclaude.io).
+
+I'm Phil Rivard. I've coached 350+ founders, and I now teach coaches, consultants and founders to build their own tools with Claude, in small live groups. My students install these skills in class. They're public so anyone can use them.
 
 They do what I do at the start and end of every work session with Claude. Check-in gets Claude up to speed before any work starts. Check-out writes down what happened, so the next session (with you or with a fresh Claude) picks up right away instead of starting from zero.
 
@@ -36,5 +38,7 @@ Each skill is one plain-text file, `SKILL.md`. Read it. If you want check-out to
 ## License
 
 MIT. Copy them, change them, share them. Just keep the license file.
+
+withclaude isn't endorsed or sponsored by Anthropic. Claude is a trademark of Anthropic.
 
 -Phil

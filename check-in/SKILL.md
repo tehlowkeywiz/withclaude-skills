@@ -9,10 +9,10 @@ Get up to speed on this project before doing any work, then tell me where it sta
 
 1. Read these from the project folder, if they exist:
    - `CLAUDE.md`: how this project works.
-   - `handoffs/INDEX.md`, then the newest file in `handoffs/`: what happened last time.
-   - If there is no `handoffs/` folder yet, read `HANDOFF.md` instead.
+   - `handoffs/INDEX.md`, then the newest 2-3 files in `handoffs/`: what happened last time.
+   - If there is no `handoffs/` folder yet, try to find a `HANDOFF.md` file instead.
    - `PLAN.md` and `TASKS.md`: the goal and the tasks left.
-2. Check for unsaved work: are there changes since the last save point, and is the last save point backed up to GitHub?
+2. Check for unsaved work: uncommitted branches/work, changes since the last save point, and is the last save point backed up to GitHub?
 3. Tell me, in plain words and in a few lines:
    - What this project does.
    - What we did last time.

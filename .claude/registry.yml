@@ -1,0 +1,13 @@
+# Drift-registry entry (registry v2). Non-derivable per-repo facts only.
+# Schema and field meanings: tehlowkeywiz/dotclaude .claude/registry.yml.
+# Class definitions: tehlowkeywiz/dotclaude portfolio/classes.md.
+
+summary: "Claude Code check-in and check-out skills that withclaude students get through GitHub."
+# D: two skill files students copy by hand; not deployed or scheduled.
+classes: [D]
+# Indexed but not checked weekly (Phil, D_active1497 A, 2026-11-18).
+status: backburner
+since: '2026-11-18'
+linear_project_id: null  # course work is tracked in the withclaudeio project
+repo_class: project
+merge_mode: normal
